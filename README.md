@@ -6,7 +6,7 @@
 | Week 1 | April 1 (Tue) | Introduction | [N/A]|
 | Week 1 | April 2 (Wed) | Graph Essentials | [N/A] |
 | Week 2 | April 7 (Mon)    | Node Embeddings | [DeepWalk](https://arxiv.org/pdf/1403.6652), [LINE](https://arxiv.org/pdf/1503.03578), [node2vec](https://arxiv.org/pdf/1607.00653), [struc2vec](https://arxiv.org/pdf/1704.03165) |
-| Week 2 | April 9 (Wed)    | Graph Neural Networks | [GCN](https://arxiv.org/pdf/1609.02907), [GAT](https://arxiv.org/pdf/1710.10903), [GraphSAGE](https://arxiv.org/pdf/1706.02216) |
+| Week 2 | April 9 (Wed)    | Graph Neural Networks | [GCN](https://arxiv.org/pdf/1609.02907), [GAT](https://arxiv.org/pdf/1710.10903), [GraphSAGE](https://arxiv.org/pdf/1706.02216), [GAug](https://arxiv.org/pdf/2006.06830) |
 | Week 3 | April 14 (Mon)    | Paper Presentation 1 | [N/A] |
 | Week 3 | April 16 (Wed)    | Topic 1: Semi-Supervised Learning on Graphs | TBD |
 | Week 4 | April 21 (Mon)    | Paper Presentation 2 | [N/A] |
