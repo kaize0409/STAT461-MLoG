@@ -1,5 +1,5 @@
 
-### Data-centric Approaches
+### STAT461 -- Machine Learning on Graphs
 
 |Week|Date|Topic|Readings|
 | :------------ |:---------------:| :---------------| :---------------| 
