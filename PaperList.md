@@ -99,3 +99,28 @@
 * 📝 *Hao Liu, Jiarui Feng, Lecheng Kong, Ningyue Liang, Dacheng Tao, Yixin Chen, Muhan Zhang*
 * 📅 ICLR 2024
 * 🔗 [Paper](https://arxiv.org/pdf/2310.00149)
+
+### 21. **From Local to Global: A Graph RAG Approach to Query-Focused Summarization**
+* 📝 *Darren Edge, Ha Trinh, Newman Cheng, Joshua Bradley, Alex Chao, Apurva Mody, Steven Truitt, Dasha Metropolitansky, Robert Osazuwa Ness, Jonathan Larson*
+* 📅 Arxiv 2025
+* 🔗 [Paper](https://arxiv.org/pdf/2404.16130)
+
+### 22. **Be More with Less: Hypergraph Attention Networks for Inductive Text Classification**
+* 📝 *Kaize Ding, Jianling Wang, Jundong Li, Dingcheng Li, Huan Liu*
+* 📅 EMNLP 2020
+* 🔗 [Paper](https://arxiv.org/pdf/2011.00387)
+
+### 23. **Graph Structure Learning for Robust Graph Neural Networks**
+* 📝 *Wei Jin, Yao Ma, Xiaorui Liu, Xianfeng Tang, Suhang Wang, Jiliang Tang*
+* 📅 KDD 2020
+* 🔗 [Paper](https://arxiv.org/pdf/2005.10203)
+
+### 24. **G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering**
+* 📝 *Xiaoxin He, Yijun Tian, Yifei Sun, Nitesh V. Chawla, Thomas Laurent, Yann LeCun, Xavier Bresson, Bryan Hooi*
+* 📅 NeurIPS 2024
+* 🔗 [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/efaf1c9726648c8ba363a5c927440529-Paper-Conference.pdf)
+
+### 25. **GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks**
+* 📝 *Zemin Liu, Xingtong Yu, Yuan Fang, Xinming Zhang*
+* 📅 WWW 2023
+* 🔗 [Paper](https://zemin-liu.github.io/papers/GraphPrompt-WWW-2023.pdf)
