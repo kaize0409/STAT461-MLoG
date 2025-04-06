@@ -1,22 +1,101 @@
+# STAT461-MLoG Paper Collection
 
-### Data-centric Approaches
+- **Self-supervised Graph-level Representation Learning with Local and Global Structure**  
+  *Minghao Xu, Hang Wang, Bingbing Ni, Hongyu Guo, Jian Tang*  
+  ICML 2021  
+  [Paper](https://arxiv.org/pdf/2106.04113)
 
-|Name|Category|Paper|Code|
-| :------------ |:---------------:| :---------------| :---------------| 
-| **AIA** | Graph Data Augmentation    | [[NeurIPS 2023] Unleashing the power of graph data augmentation on covariate distribution shift](https://proceedings.neurips.cc/paper_files/paper/2023/file/3a33ddacb2798fc7d83b8334d552e05a-Paper-Conference.pdf) | [Code](https://github.com/yongduosui/AIA) |
-| **G-Splice** | Graph Data Augmentation    | [[arXiv] Graph structure and feature extrapolation for out-of-distribution generalization](https://arxiv.org/pdf/2306.08076) | [N/A] |
-| **LiSA** | Graph Data Augmentation    | [[CVPR 2023] Mind the Label Shift of Augmentation-based Graph OOD Generalization](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Mind_the_Label_Shift_of_Augmentation-Based_Graph_OOD_Generalization_CVPR_2023_paper.pdf) | [Code](https://github.com/Samyu0304/LiSA) |
-| **DLG** | Graph Data Augmentation    | [[ICDM 2024] Enhancing Distribution and Label Consistency for Graph Out-of-Distribution Generalization] | [N/A] |
-| **Pattern-PT** | Graph Data Augmentation    | [[ICML 2021] From local structures to size generalization in graph neural networks](https://proceedings.mlr.press/v139/yehudai21a/yehudai21a.pdf) | [N/A] |
-| **P-gMPNN** | Graph Data Augmentation    | [[NeurIPS 2022] OOD link prediction generalization capabilities of message-passing GNNs in larger test graphs](https://proceedings.neurips.cc/paper_files/paper/2022/file/7f88a8478c4ae97819ccffa1e80e7a7b-Paper-Conference.pdf) | [Code](https://github.com/yangzez/OOD-Link-Prediction-Generalization-MPNN) |
-| **GraphMix** | Graph Data Augmentation    | [[AAAI 2021] Graphmix: Improved training of gnns for semi-supervised learning](https://ojs.aaai.org/index.php/AAAI/article/view/17203/17010) | [Code](https://github.com/vikasverma1077/GraphMix) |
-| **G-Mixup** | Graph Data Augmentation    | [[TheWebConf 2021] Mixup for node and graph classification](https://dl.acm.org/doi/pdf/10.1145/3442381.3449796) | [N/A] |
-| **$\mathcal{G}$-Mixup** | Graph Data Augmentation    | [[ICML 2022] G-mixup: Graph data augmentation for graph classification](https://proceedings.mlr.press/v162/han22c/han22c.pdf) | [Code](https://github.com/ahxt/g-mixup) |
-| **OOD-GMixup** | Graph Data Augmentation    | [[TKDE 2024] Graph out-of-distribution generalization with controllable data augmentation](https://arxiv.org/pdf/2308.08344) | [N/A] |
-| **GREA** | Distribution Augmentation    | [[KDD 2022] Graph rationalization with environment-based augmentations](https://dl.acm.org/doi/pdf/10.1145/3534678.3539347) | [Code](https://github.com/liugangcode/GREA) |
-| **EERM** | Distribution Augmentation    | [[ICLR 2022] Handling distribution shifts on graphs: An invariance perspective](https://arxiv.org/pdf/2202.02466) | [Code](https://github.com/qitianwu/GraphOOD-EERM) |
-| **FLOOD** | Distribution Augmentation    | [[KDD 2023] FLOOD: A Flexible Invariant Learning Framework for Out-of-Distribution Generalization on Graphs](https://dl.acm.org/doi/pdf/10.1145/3580305.3599355) | [N/A] |
-| **DPS** | Distribution Augmentation    | [[arXiv] Finding Diverse and Predictable Subgraphs for Graph Domain Generalization](https://arxiv.org/pdf/2206.09345) | [N/A] |
-| **MoleOOD** | Distribution Augmentation    | [[NeurIPS 2022] Learning substructure invariance for out-of-distribution molecular representations](https://proceedings.neurips.cc/paper_files/paper/2022/file/547108084f0c2af39b956f8eadb75d1b-Paper-Conference.pdf) | [Code](https://github.com/yangnianzu0515/MoleOOD) |
-| **ERASE** | Distribution Augmentation    | [[CIKM 2024] ERASE: Error-Resilient Representation Learning on Graphs for Label Noise Tolerance](https://arxiv.org/pdf/2312.08852) | [Code](https://github.com/eraseai/erase) |
-| **IGM** | Distribution Augmentation    | [[AAAI 2024] Graph invariant learning with subgraph co-mixup for out-of-distribution generalization](https://ojs.aaai.org/index.php/AAAI/article/download/28700/29356) | [Code](https://github.com/BUPT-GAMMA/IGM) |
+- **Graph Meta Learning via Local Subgraphs**  
+  *Kexin Huang, Marinka Zitnik*  
+  NeurIPS 2020  
+  [Paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/412604be30f701b1b1e3124c252065e6-Paper.pdf)
+
+- **Equivariant and Stable Positional Encoding for More Powerful Graph Neural Networks**  
+  *Haorui Wang, Haoteng Yin, Muhan Zhang, Pan Li*  
+  ICLR 2022  
+  [Paper](https://arxiv.org/pdf/2203.00199)
+
+- **Nested Graph Neural Networks**  
+  *Muhan Zhang, Pan Li*  
+  NeurIPS 2021  
+  [Paper](https://arxiv.org/pdf/2110.13197)
+
+- **Rethinking Graph Transformers with Spectral Attention**  
+  *Devin Kreuzer, Dominique Beaini, William L. Hamilton, Vincent Létourneau, Prudencio Tossou*  
+  NeurIPS 2021  
+  [Paper](https://arxiv.org/pdf/2106.03893)
+
+- **Self-Supervised Graph Transformer on Large-Scale Molecular Data**  
+  *Yu Rong, Yatao Bian, Tingyang Xu, Weiyang Xie, Ying WEI, Wenbing Huang, Junzhou Huang*  
+  NeurIPS 2020  
+  [Paper](https://arxiv.org/pdf/2007.02835)
+
+- **On the Equivalence of Decoupled Graph Convolution Network and Label Propagation**  
+  *Hande Dong, Jiawei Chen, Fuli Feng, Xiangnan He, Shuxian Bi, Zhaolin Ding, Peng Cui*  
+  WWW 2021  
+  [Paper](https://arxiv.org/abs/2010.12408)
+
+- **Extract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge Distillation Framework**  
+  *Hande Dong, Jiawei Chen, Fuli Feng, Xiangnan He, Shuxian Bi, Zhaolin Ding, Peng Cui*  
+  WWW 2021  
+  [Paper](https://dl.acm.org/doi/pdf/10.1145/3442381.3450068)
+
+- **Revisiting Score Propagation in Graph Out-of-Distribution Detection**  
+  *Longfei Ma, Yiyou Sun, Kaize Ding, Zemin Liu, Fei Wu*  
+  NeurIPS 2024  
+  [Paper](https://openreview.net/pdf?id=jb5qN3212b)
+
+- **Energy-based Out-of-Distribution Detection for Graph Neural Networks**  
+  *Qitian Wu, Yiting Chen, Chenxiao Yang, Junchi Yan*  
+  ICLR 2023  
+  [Paper](https://arxiv.org/pdf/2302.02914)
+
+- **GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction**  
+  *Amit Roy, Juan Shu, Jia Li, Carl Yang, Olivier Elshocht, Jeroen Smeets, Pan Li*  
+  WSDM 2024  
+  [Paper](https://arxiv.org/pdf/2306.01951)
+
+- **Generative Semi-supervised Graph Anomaly Detection**  
+  *Hezhe Qiao, Qingsong Wen, Xiaoli Li, Ee-Peng Lim, Guansong Pang*  
+  NeurIPS 2024  
+  [Paper](https://arxiv.org/pdf/2402.11887)
+
+- **Confidence May Cheat: Self-Training on Graph Neural Networks under Distribution Shift**  
+  *Hongrui Liu, Binbin Hu, Xiao Wang, Chuan Shi, Zhiqiang Zhang, Jun Zhou*  
+  WWW 2022  
+  [Paper](https://arxiv.org/pdf/2201.11349)
+
+- **Adversarial Graph Augmentation to Improve Graph Contrastive Learning**  
+  *Susheel Suresh, Pan Li, Cong Hao, Jennifer Neville*  
+  NeurIPS 2021  
+  [Paper](https://proceedings.neurips.cc/paper/2021/file/854f1fb6f65734d9e49f708d6cd84ad6-Paper.pdf)
+
+- **GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning**  
+  *Haiteng Zhao, Shengchao Liu, Chang Ma, Hannan Xu, Jie Fu, Zhi-Hong Deng, Lingpeng Kong, Qi Liu*  
+  NeurIPS 2023  
+  [Paper](https://arxiv.org/pdf/2306.13089)
+
+- **Few-Shot Graph Learning for Molecular Property Prediction**  
+  *Zhichun Guo, Chuxu Zhang, Wenhao Yu, John Herr, Olaf Wiest, Meng Jiang, Nitesh V. Chawla*  
+  WWW 2021  
+  [Paper](https://arxiv.org/pdf/2102.07916)
+
+- **DiGress: Discrete Denoising diffusion for graph generation**  
+  *Clement Vignac, Igor Krawczuk, Antoine Siraudin, Bohan Wang, Volkan Cevher, Pascal Frossard*  
+  ICLR 2023  
+  [Paper](https://arxiv.org/pdf/2209.14734)
+
+- **Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs**  
+  *Bowen Jin, Chulin Xie, Jiawei Zhang, Kashob Kumar Roy, Yu Zhang, Zheng Li, Ruirui Li, Xianfeng Tang, Suhang Wang, Yu Meng, Jiawei Han*  
+  ACL Findings 2024  
+  [Paper](https://arxiv.org/pdf/2404.07103)
+
+- **Reasoning on graphs: Faithful and interpretable large language model reasoning**  
+  *Linhao Luo, Yuan-Fang Li, Gholamreza Haffari, Shirui Pan*  
+  ICLR 2024  
+  [Paper](https://arxiv.org/pdf/2310.01061)
+
+- **One for All: Towards Training One Graph Model for All Classification Tasks**  
+  *Hao Liu, Jiarui Feng, Lecheng Kong, Ningyue Liang, Dacheng Tao, Yixin Chen, Muhan Zhang*  
+  ICLR 2024  
+  [Paper](https://arxiv.org/pdf/2310.00149)
