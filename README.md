@@ -13,9 +13,9 @@
 | Week 4| April 23 (Wed)    | Topic 2: Self-Supervised Learning on Graphs | TBD |
 | Week 5 | April 28 (Mon)    | Project Q&A | [N/A] |
 | Week 5 | April 30 (Wed)    | Paper Presentation 3 | [N/A] |
-| Week 6 | May 5 (Mon)    | Topic 3: LLMs for Graphs | TBD |
+| Week 6 | May 5 (Mon)    | Topic 3: Few-Shot Learning on Graphs | TBD |
 | Week 6 | May 7 (Wed)    | Paper Presentation 4 | [N/A] |
-| Week 7 | May 12 (Mon)    | Topic 4: Few-Shot Learning on Graphs | TBD |
+| Week 7 | May 12 (Mon)    | Topic 4: LLMs for Graphs | TBD |
 | Week 7 | May 14 (Wed)    | Paper Presentation 5 | [N/A] |
 | Week 8 | May 19 (Mon)    | Topic 5: Graph Anomaly & OOD Detection | TBD |
 | Week 8 | May 21 (Wed)    | Paper Presentation 6 | [N/A] |
