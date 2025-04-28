@@ -11,7 +11,7 @@
 | Week 3 | April 16 (Wed)    | Topic 1: Semi-Supervised Learning on Graphs |[GNN Pseudo Labeling](https://arxiv.org/pdf/1801.07606), [MetaPN](https://arxiv.org/pdf/2112.09810), [D2PT](https://arxiv.org/pdf/2305.18457), [NRGNN](https://arxiv.org/pdf/2106.04714)|
 | Week 4 | April 21 (Mon)    | Paper Presentation 2 | [N/A] |
 | Week 4| April 23 (Wed)    | Project Q&A | [N/A]|
-| Week 5 | April 28 (Mon)    | Topic 2: Self-Supervised Learning on Graphs | TBD |
+| Week 5 | April 28 (Mon)    | Topic 2: Self-Supervised Learning on Graphs | [S^3-CL](https://arxiv.org/pdf/2202.08480), [GRENADE](https://arxiv.org/pdf/2310.15109), [GraphMAE](https://arxiv.org/pdf/2205.10803)|
 | Week 5 | April 30 (Wed)    | Paper Presentation 3 | [N/A] |
 | Week 6 | May 5 (Mon)    | Topic 3: Few-Shot Learning on Graphs | TBD |
 | Week 6 | May 7 (Wed)    | Paper Presentation 4 | [N/A] |
