@@ -13,7 +13,7 @@
 | Week 4| April 23 (Wed)    | Project Q&A | [N/A]|
 | Week 5 | April 28 (Mon)    | Topic 2: Self-Supervised Learning on Graphs |[GraphMAE](https://arxiv.org/pdf/2205.10803), [S^3-CL](https://arxiv.org/pdf/2202.08480), [GRENADE](https://arxiv.org/pdf/2310.15109)|
 | Week 5 | April 30 (Wed)    | Paper Presentation 3 | [N/A] |
-| Week 6 | May 5 (Mon)    | Topic 3: Few-Shot Learning on Graphs | TBD |
+| Week 6 | May 5 (Mon)    | Topic 3: Few-Shot Learning on Graphs | [GPN](https://arxiv.org/pdf/2006.12739), [G2P2](https://arxiv.org/pdf/2305.03324), [GraphPrompt](https://arxiv.org/pdf/2302.08043)|
 | Week 6 | May 7 (Wed)    | Paper Presentation 4 | [N/A] |
 | Week 7 | May 12 (Mon)    | Topic 4: LLMs for Graphs | TBD |
 | Week 7 | May 14 (Wed)    | Paper Presentation 5 | [N/A] |
