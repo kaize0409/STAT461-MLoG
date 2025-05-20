@@ -15,7 +15,7 @@
 | Week 5 | April 30 (Wed)    | Paper Presentation 3 | [N/A] |
 | Week 6 | May 5 (Mon)    | Topic 3: Few-Shot Learning on Graphs | [GPN](https://arxiv.org/pdf/2006.12739), [G2P2](https://arxiv.org/pdf/2305.03324), [GraphPrompt](https://arxiv.org/pdf/2302.08043)|
 | Week 6 | May 7 (Wed)    | Paper Presentation 4 | [N/A] |
-| Week 7 | May 12 (Mon)    | Topic 4: LLMs for Graphs | TBD |
+| Week 7 | May 12 (Mon)    | Topic 4: LLMs for Graphs | [TAPE](https://arxiv.org/pdf/2305.19523), [LLM-GNN](https://openreview.net/pdf?id=hESD2NJFg8), [InstructGraph](https://arxiv.org/pdf/2402.08785), [LLaGA](https://arxiv.org/pdf/2402.08170), [AskGNN](https://arxiv.org/pdf/2410.07074) |
 | Week 7 | May 14 (Wed)    | Paper Presentation 5 | [N/A] |
 | Week 8 | May 19 (Mon)    | Topic 5: Graph Anomaly & OOD Detection | TBD |
 | Week 8 | May 21 (Wed)    | Paper Presentation 6 | [N/A] |
