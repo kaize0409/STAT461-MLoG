@@ -13,9 +13,9 @@
 | | 10/08 (Wed) | Topic 1: Semi-Supervised Learning on Graphs | [GNN Pseudo Labeling](https://arxiv.org/pdf/1801.07606), [MetaPN](https://arxiv.org/pdf/2112.09810), [D2PT](https://arxiv.org/pdf/2305.18457), [NRGNN](https://arxiv.org/pdf/2106.04714) |
 | **Week 5** | 10/13 (Mon) | Paper Presentation 1 | N/A |
 | | 10/15 (Wed) | Topic 2: Self-Supervised Learning on Graphs | [GraphMAE](https://arxiv.org/pdf/2205.10803), [S^3-CL](https://arxiv.org/pdf/2202.08480), [GRENADE](https://arxiv.org/pdf/2310.15109) |
-| **Week 6** | 10/20 (Mon) | Paper Presentation 2 | N/A |
+| **Week 6** | 10/20 (Mon) | Invited Talk | N/A |
 | | 10/22 (Wed) | Project Midterm Presentation | N/A |
-| **Week 7** | 10/27 (Mon) | Invited Talk | TBA |
+| **Week 7** | 10/27 (Mon) | Paper Presentation 2 | TBA |
 | | 10/29 (Wed) | Topic 3: Few-Shot Learning on Graphs | [GPN](https://arxiv.org/pdf/2006.12739), [G2P2](https://arxiv.org/pdf/2305.03324), [GraphPrompt](https://arxiv.org/pdf/2302.08043) |
 | **Week 8** | 11/03 (Mon) | Paper Presentation 3 | N/A |
 | | 11/05 (Wed) | Topic 4: LLMs for Graphs | [TAPE](https://arxiv.org/pdf/2305.19523), [LLM-GNN](https://openreview.net/pdf?id=hESD2NJFg8), [InstructGraph](https://arxiv.org/pdf/2402.08785), [LLaGA](https://arxiv.org/pdf/2402.08170), [AskGNN](https://arxiv.org/pdf/2410.07074) |
